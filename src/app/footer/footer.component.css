@@ -130,6 +130,17 @@
   top: 30%;
   white-space: nowrap;
 }
+.red-heart {
+  color: red;
+}
+.footer-github-repolink {
+  color: white;
+  text-decoration: none;
+}
+.footer-github-repolink:hover {
+  color: #0000EE;
+  text-decoration: underline;
+}
 .footer-right-copyright-brand {
   background: -moz-linear-gradient(right, silver, white 54px, gray); /* FF3.6+ */
   background: -webkit-gradient(right, silver, white 54px, gray); /* Chrome,Safari4+ */
